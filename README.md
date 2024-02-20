@@ -13,9 +13,9 @@ This project aims to develop a machine learning model to detect controversial di
 
 ## Installation
 
-xClone the repository:
+Clone the repository:
 
    ```bash
-   git clone [repository_url]
-   cd controversy-detection```
+   git clone https://github.com/najmaelboutaheri/Reddit-Controversy-detection.git
+   cd controversy-detection
 
